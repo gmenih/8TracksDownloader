@@ -6,4 +6,4 @@ An old project where I exploit 8Track's API to infinetely skip songs and downloa
 
 # This doesn't work anymore!
 
-8Tracks fixed their API by limited 3 skips per playlist.
+8Tracks fixed their API by limiting 3 skips per playlist.
